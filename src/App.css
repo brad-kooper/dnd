@@ -1,0 +1,37 @@
+.App {
+
+}
+
+.App-logo {
+  height: 100px;
+  float: left;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.zip-code-results {
+  width: 171px;
+  margin: auto;
+}
+
+.response, .request {
+  text-align: left;
+}
