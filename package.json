@@ -1,9 +1,9 @@
 {
-  "name": "insprof-torch-react",
+  "name": "dnd",
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=6.11.0"
+    "node": ">=5.9.0"
   },
   "dependencies": {
     "react": "^16.0.0",
