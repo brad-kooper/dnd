@@ -4,7 +4,6 @@ import headerImg from './images/DD-Transparent.png';
 import './App.css';
 
 import ProfileContainer from './components/ProfileContainer'
-import ZipCodeContainer from './components/ZipCodeContainer'
 import { Link } from 'react-router-dom'
 
 class App extends React.Component {
